@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+  }
+  div{
+    margin-top: 25%;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    color: white;
+  }
+  h1{
+    text-transform: capitalize;
+  }
+  img{
+    width: 100%;
+    border: 10px solid white;
+  }
